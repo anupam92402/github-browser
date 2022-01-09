@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/TVTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:text="@string/issue_title"
+            android:textColor="@color/black"
+            android:textSize="22sp" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/IVAvtar"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_below="@id/TVTitle"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/ic_profile" />
+
+        <TextView
+            android:id="@+id/TVName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/TVTitle"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/IVAvtar"
+            android:maxLines="1"
+            android:text="@string/issue_creator"
+            android:textColor="@color/black"
+            android:textSize="22sp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

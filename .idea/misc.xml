@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/drawable-v24/bg_btn_commit.xml" value="0.2703125" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/drawable/bg_btn_add.xml" value="0.2703125" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/drawable/bg_edit_text.xml" value="0.2703125" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/drawable/btn_add.xml" value="0.2703125" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/activity_add_repo.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/activity_commit.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/activity_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/fragment_branch.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/fragment_issues.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/sample_branches_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/sample_commit_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/sample_issues_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/layout/sample_repo_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/menu/menu_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GithubBrowser/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
